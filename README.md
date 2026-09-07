@@ -30,6 +30,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Gaming Platform](#-gaming-platform)
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
+* [Microcontroller](#-microcontroller)
 * [Monitoring](#-monitoring)
 * [Operating System](#%EF%B8%8F-operating-system)
 * [ORM](#%EF%B8%8F-orm)
@@ -697,6 +698,19 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#) | `[![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#)` |
 | [![Topcoder](https://img.shields.io/badge/Topcoder-29A7DF?logo=topcoder&logoColor=fff)](#) | `[![Topcoder](https://img.shields.io/badge/Topcoder-29A7DF?logo=topcoder&logoColor=fff)](#)` |
 | [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#) | `[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### ⚡ Microcontroller
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#) | `[![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#)` |
+| [![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#) | `[![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#)` |
+| [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#) | `[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)` |
 
 <div align="right">
 
