@@ -30,6 +30,8 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Gaming Platform](#-gaming-platform)
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
+* [Licenses](#%EF%B8%8F-licenses)
+* [Microcontroller](#-microcontroller)
 * [Monitoring](#-monitoring)
 * [Operating System](#%EF%B8%8F-operating-system)
 * [ORM](#%EF%B8%8F-orm)
@@ -703,7 +705,43 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
+### ⚖️ Licenses
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![AGPLv2](https://img.shields.io/badge/AGPLv2-FFFFFF)](#) | `[![AGPLv2](https://img.shields.io/badge/AGPLv2-FFFFFF)](#)` |
+| [![AGPLv3](https://img.shields.io/badge/AGPLv3-FFFFFF)](#) | `[![AGPLv3](https://img.shields.io/badge/AGPLv3-FFFFFF)](#)` |
+| [![Apache License 2.0](https://img.shields.io/badge/Apache%20License%202.0-FFFFFF?logo=apache&logoColor=D22128)](#) | `[![Apache License 2.0](https://img.shields.io/badge/Apache%20License%202.0-FFFFFF?logo=apache&logoColor=D22128)](#)` |
+| [![BSD](https://img.shields.io/badge/BSD-FFFFFF)](#) | `[![BSD](https://img.shields.io/badge/BSD-FFFFFF)](#)` |
+| [![CC0](https://img.shields.io/badge/CC0-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC0](https://img.shields.io/badge/CC0-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
+| [![CC BY](https://img.shields.io/badge/CC%20BY-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY](https://img.shields.io/badge/CC%20BY-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
+| [![GPLv2](https://img.shields.io/badge/GPLv2-FFFFFF)](#) | `[![GPLv2](https://img.shields.io/badge/GPLv2-FFFFFF)](#)` |
+| [![GPLv3](https://img.shields.io/badge/GPLv3-FFFFFF)](#) | `[![GPLv3](https://img.shields.io/badge/GPLv3-FFFFFF)](#)` |
+| [![LGPLv2.1](https://img.shields.io/badge/LGPLv2.1-FFFFFF)](#) | `[![LGPLv2.1](https://img.shields.io/badge/LGPLv2.1-FFFFFF)](#)` |
+| [![LGPLv3](https://img.shields.io/badge/LGPLv3-FFFFFF)](#) | `[![LGPLv3](https://img.shields.io/badge/LGPLv3-FFFFFF)](#)` |
+| [![MIT License](https://img.shields.io/badge/MIT%20License-FFFFFF)](#) | `[![MIT License](https://img.shields.io/badge/MIT%20License-FFFFFF)](#)` |
+| [![Unlicense](https://img.shields.io/badge/Unlicense-FFFFFF?logo=unlicense&logoColor=#808080)](#) | `[![Unlicense](https://img.shields.io/badge/Unlicense-FFFFFF?logo=unlicense&logoColor=#808080)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### ⚡ Microcontroller
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#) | `[![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#)` |
+| [![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#) | `[![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#)` |
+| [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#) | `[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 ### 🔍 Monitoring
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff)](#) | `[![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff)](#)` |
