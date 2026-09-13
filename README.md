@@ -31,6 +31,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
 * [Licenses](#%EF%B8%8F-licenses)
+* [Microcontroller](#-microcontroller)
 * [Monitoring](#-monitoring)
 * [Operating System](#%EF%B8%8F-operating-system)
 * [ORM](#%EF%B8%8F-orm)
@@ -726,7 +727,21 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
+### ⚡ Microcontroller
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#) | `[![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#)` |
+| [![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#) | `[![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#)` |
+| [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#) | `[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 ### 🔍 Monitoring
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff)](#) | `[![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff)](#)` |
